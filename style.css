@@ -16,18 +16,20 @@
 }
 
 .about_img {
-  height: 300px;
+  height: 250px;
   width: 300px;
   position: relative; left: 120px;
 }
 
-
-
-/* Services section */
-
-.services img {
-  height: 100%;
-  width: 100%;
+.releases_img {
+  height: 250px;
+  width: 500px;
+  position: relative; left: 120px;
+}
+.azure_img {
+  height: 250px;
+  width: 300px;
+  position: relative; left: 95px;
 }
 
 /* Footer section */
