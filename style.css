@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navbar-brand img {
+  max-height: 50px;
+}
+
+.carousel-item img {
+  width: 80%;
+  height: 90vh;
+}
+
+.about_img {
+  height: 300px;
+  width: 300px;
+  position: relative; left: 120px;
+}
+
+
+
+/* Services section */
+
+.services img {
+  height: 100%;
+  width: 100%;
+}
+
+/* Footer section */
+
+footer p {
+  margin-bottom: 0;
+}
+/* Responsive CSS code 
+
+/* // X-Small devices (portrait phones, less than 576px)
+// No media query for `xs` since this is the default in Bootstrap
+
+// Small devices (landscape phones, 576px and up) */
+/* @media (min-width: 576px) {
+  ...;
+} */
+
+/* // Medium devices (tablets, 768px and up) */
+/* @media (min-width: 768px) {
+  ...;
+} */
+
+/* @media (min-width: 992px) {
+  ...;
+}
+
+/* // X-Large devices (large desktops, 1200px and up) */
+/* @media (min-width: 1200px) {
+  ...;
+}
+
+/* // XX-Large devices (larger desktops, 1400px and up) */
+/* @media (min-width: 1400px) {
+  ...;
+} */
